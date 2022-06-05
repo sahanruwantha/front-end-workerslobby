@@ -1,0 +1,19 @@
+*{
+    /* background: #BC68FE; */
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+body{
+    background-color:#BC68FE;
+}
+
+.bottom{
+    margin-top: auto;
+}
+
+.button{
+    border-radius: 0px;
+    color: black;
+}

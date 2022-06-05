@@ -1,0 +1,13 @@
+body{
+    display: flex;
+}
+
+.left{
+    height: 100vh;
+    width: 15%;
+}
+
+.right{
+    height: 100vh;
+    width: 85%;
+}
